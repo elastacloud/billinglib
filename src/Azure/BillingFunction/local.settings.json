@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ecbillingcost;AccountKey=EZ/JtdJnuQeCA9A/TgpC1vHVd5hLAzKViTwNzYUmdAQ1ZxJCJL7DlFjMQ9FRcYedUITxTbLnHAMMtzqbCi+7EQ==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=ecbillingcost;AccountKey=EZ/JtdJnuQeCA9A/TgpC1vHVd5hLAzKViTwNzYUmdAQ1ZxJCJL7DlFjMQ9FRcYedUITxTbLnHAMMtzqbCi+7EQ==;EndpointSuffix=core.windows.net",
+    "ADALServiceURL": "https://login.microsoftonline.com",
+    "ARMBillingServiceURL": "https://management.azure.com",
+    "client_Id": "d543bd74-096f-4f5c-bfe1-bb351c237577",
+    "client_key": "xj/9oWCkvhWLtvunHL5luWjzIgPX6tHecr19PBkZEuQ=",
+    "tenant": "elastacloud.com",
+    "GraphResource": "https://graph.windows.net",
+    "Login": "https://login.windows.net",
+    "Currency": "GBP",
+    "OfferId": "MS-AZR-0036P",
+    "RegionInfo": "GB",
+    "SubscriptionId": "1635ab31-5d13-4158-9d98-def66ab0b0f2",
+    "EventHubName": "billingdemo",
+    "EventHubConnectionString": "Endpoint=sb://ecbilling.servicebus.windows.net/;SharedAccessKeyName=master;SharedAccessKey=t+F7X8LIMEwbwINC2h2NBL6+Txabkxrq5BsbVOtup6U=;EntityPath=billingdemo"
+  }
+}
